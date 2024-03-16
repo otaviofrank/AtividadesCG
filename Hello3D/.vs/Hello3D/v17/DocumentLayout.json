@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\otavi\\Documents\\Workspace\\AtividadesCG\\AtividadesCG\\Hello3D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE17440-8D2F-4C19-8FD0-3E841706C02E}|Exericio8\\Exericio8.vcxproj|C:\\Users\\otavi\\Documents\\Workspace\\AtividadesCG\\AtividadesCG\\Hello3D\\Exericio8\\Origem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FE17440-8D2F-4C19-8FD0-3E841706C02E}|Exericio8\\Exericio8.vcxproj|solutionrelative:Exericio8\\Origem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE17440-8D2F-4C19-8FD0-3E841706C02E}|Exericio8\\Exericio8.vcxproj|C:\\Users\\otavi\\Documents\\Workspace\\AtividadesCG\\AtividadesCG\\Hello3D\\glad.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FE17440-8D2F-4C19-8FD0-3E841706C02E}|Exericio8\\Exericio8.vcxproj|solutionrelative:glad.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Origem.cpp",
+              "DocumentMoniker": "C:\\Users\\otavi\\Documents\\Workspace\\AtividadesCG\\AtividadesCG\\Hello3D\\Exericio8\\Origem.cpp",
+              "RelativeDocumentMoniker": "Exericio8\\Origem.cpp",
+              "ToolTip": "C:\\Users\\otavi\\Documents\\Workspace\\AtividadesCG\\AtividadesCG\\Hello3D\\Exericio8\\Origem.cpp",
+              "RelativeToolTip": "Exericio8\\Origem.cpp",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAqwFEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-16T19:59:08.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "glad.c",
+              "DocumentMoniker": "C:\\Users\\otavi\\Documents\\Workspace\\AtividadesCG\\AtividadesCG\\Hello3D\\glad.c",
+              "RelativeDocumentMoniker": "glad.c",
+              "ToolTip": "C:\\Users\\otavi\\Documents\\Workspace\\AtividadesCG\\AtividadesCG\\Hello3D\\glad.c",
+              "RelativeToolTip": "glad.c",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAMEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-16T19:57:59.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
